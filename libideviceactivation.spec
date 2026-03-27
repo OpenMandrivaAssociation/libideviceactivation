@@ -10,7 +10,7 @@
 Summary:	Library to manage the activation of iOS device
 Name:		libideviceactivation
 Version:	1.1.2
-Release:	%{?git:0.%{git}.}1
+Release:	%{?git:0.%{git}.}2
 Group:		System/Libraries
 License:	LGPLv2+
 Url:		https://www.libimobiledevice.org/
